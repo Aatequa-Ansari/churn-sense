@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Streamlit cache
+.streamlit/cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Temporary
+*.tmp
+*.bak
+
+
+
+# Processed datasets
+data/final_telco_churn.csv
+data/processed_telco_churn.csv
+
+# Temporary images
+image.png
+
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+# Pytest
+.pytest_cache/
+
