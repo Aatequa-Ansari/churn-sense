@@ -62,3 +62,6 @@ __pycache__/
 # Pytest
 .pytest_cache/
 
+*.csv
+!data/final_telco_churn.csv
+!data/sample_new_customers.csv
