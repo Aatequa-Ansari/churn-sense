@@ -15,6 +15,10 @@
 
 ## 📌 Project Overview
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge&logo=streamlit)](https://churn-sense-aatequa-ansari.streamlit.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Aatequa-Ansari)
+
 **ChurnSense** is an end-to-end Machine Learning application that predicts customer churn in the telecommunications industry.
 
 The project analyzes customer behavior, identifies customers who are likely to leave the company, explains the reasons behind each prediction using Explainable AI (SHAP), and provides actionable business recommendations through an interactive Streamlit dashboard.
@@ -94,15 +98,27 @@ The Streamlit application provides an interactive interface for telecom customer
 
 ## 🏠 Home Dashboard
 
+
 <img src="assets/home.png" width="100%">
 
 ---
 
 ## 👤 Single Customer Prediction
 
-<img src="assets/predict.png" width="100%">
+### Customer Input
+
+<img src="assets/predict_1.png" width="100%">
+
+### Prediction Results
+
+<img src="assets/predict_2.png" width="100%">
+
+### SHAP Explanation & Recommendation
+
+<img src="assets/predict_3.png" width="100%">
 
 ---
+
 
 ## 📊 Analytics Dashboard
 
@@ -110,15 +126,37 @@ The Streamlit application provides an interactive interface for telecom customer
 
 ---
 
-## 📂 Batch Prediction
 
-<img src="assets/batch.png" width="100%">
+## 📋 Dataset Overview
+
+<img src="assets/dataset.png" width="100%">
 
 ---
 
+
+## 📂 Batch Prediction
+
+### Upload CSV
+
+<img src="assets/batch_1.png" width="100%">
+
+### Batch Prediction Results
+
+<img src="assets/batch_2.png" width="100%">
+
+---
+
+
+## 🤖 Model Information
+
+<img src="assets/model.png" width="100%">
+
+---
+
+
 ## 🔍 Explainable AI (SHAP)
 
-<img src="assets/explanation.png" width="100%">
+<img src="assets/explainability.png" width="100%">
 
 ---
 
