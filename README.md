@@ -1425,12 +1425,11 @@ Before running the project, ensure the following software is installed on your s
 Clone the GitHub repository to your local machine.
 
 ```bash
-git clone https://github.com/<your-username>/ChurnSense.git
+git clone https://github.com/Aatequa-Ansari/churn-sense.git
 
 cd ChurnSense
 ```
 
-> Replace `<your-username>` with your GitHub username after publishing the repository.
 
 ---
 
@@ -1664,20 +1663,18 @@ These files ensure compatibility with Streamlit Community Cloud.
 > **Application URL**
 
 ```text
-https://your-streamlit-app.streamlit.app
+https://churn-sense-aatequa-ansari.streamlit.app/
 ```
 
-Update the above link after deployment.
 
 ---
 
 ## GitHub Repository
 
 ```text
-https://github.com/your-username/ChurnSense
+https://github.com/Aatequa-Ansari/churn-sense
 ```
 
-Replace with your repository URL after publishing.
 
 ---
 
